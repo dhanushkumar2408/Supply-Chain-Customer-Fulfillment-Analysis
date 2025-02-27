@@ -23,6 +23,11 @@ The objective of this project is to analyze the supply chain performance of Atli
    - Supply Chain Overview
    - Order Level Analysis
    - Line Level Analysis
+  ![Overview](https://github.com/user-attachments/assets/0db0a1e1-ec0b-4247-9497-65f2cd0304b1)
+  ![Order Level](https://github.com/user-attachments/assets/ea56069a-624c-4404-b451-b61f537eaba5)
+  ![Line Level](https://github.com/user-attachments/assets/80ab2dfe-d6a1-4c3c-b6fb-9ee60ed40561)
+
+     
 
 4. **Filters Applied:**
    - Date
