@@ -14,10 +14,14 @@ The objective of this project is to analyze the supply chain performance of Atli
 1. **Data Cleaning and Preparation:**
    - Processed the dataset to ensure consistency and remove missing values.
    - Created necessary calculated columns using DAX.
+         ![DAX](https://github.com/user-attachments/assets/d5777cc1-0f31-4dd2-b9a6-1174cc8bd541)
+
 
 2. **Data Modeling:**
    - Established relationships between tables such as Orders, Customers, Products, and Shipments.
    - Created measures using DAX for performance KPIs.
+     ![Data Model](https://github.com/user-attachments/assets/c449390b-9912-4254-b755-ab4ce6f56580)
+
 
 3. **Dashboard Creation:**
    - Supply Chain Overview
@@ -28,13 +32,13 @@ The objective of this project is to analyze the supply chain performance of Atli
   ![Line Level](https://github.com/user-attachments/assets/80ab2dfe-d6a1-4c3c-b6fb-9ee60ed40561)
 
      
-
 4. **Filters Applied:**
    - Date
    - Month/Day
    - Product Category/Name
    - City
    - Customer Name
+![Screenshot 2025-02-22 120152](https://github.com/user-attachments/assets/33dbe60f-f7cb-44ea-b69e-8d4efba3a3f0)
 
 ## 📊 Insights
 ### Supply Chain Overview
